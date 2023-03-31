@@ -45,8 +45,21 @@ $ npm install
 
 ### Run everything
 
+Run the following command to start the database:
 ```bash
-$ docker-compose up
+$ docker-compose.yml up
+```
+
+Run the following command to start the backend:
+```bash
+$ cd backend
+$ npm run start
+```
+
+Run the following command to start the frontend:
+```bash
+$ cd frontend
+$ npm run dev
 ```
 
 ## Tasks

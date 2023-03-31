@@ -47,7 +47,7 @@ $ npm install
 
 Run the following command to start the database:
 ```bash
-$ docker-compose.yml up
+$ docker-compose up
 ```
 
 Run the following command to start the backend:
